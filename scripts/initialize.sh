@@ -3,6 +3,7 @@
 # 프로젝트 디렉터리로 이동
 cd /home/ubuntu/server-univ
 
+
 # 프로젝트 의존성 설치
 npm install
 
